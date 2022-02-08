@@ -1,5 +1,5 @@
 #some changes
 
-x <- 4
+x <- sample(1:6,size=1)
 print(x)
 
